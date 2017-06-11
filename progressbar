@@ -1,0 +1,68 @@
+<div class="container">
+<div class="progress-bar left">
+    <span class="inner"><span class="core" style="width: 70%;"></span></span>
+</div>
+<div class="circle">
+</div>
+<div class="progress-bar right">
+    <span class="inner"><span class="core" style="width: 40%;"></span></span>
+</div>
+</div>
+
+<style>
+.container{
+  display: flex;
+  align-items: center;
+}
+
+.progress-bar {
+    margin: 10px;
+    height: 10px;
+    width: 50%;
+    overflow: hidden;
+}
+
+.right {
+  transform: translate(-20px, 0)
+}
+.left {
+  direction: rtl;
+    transform: translate(20px, 0)
+}
+
+.circle {
+  width: 20px;
+  height: 20px;
+  background-color: #000;
+  border-radius: 10px;
+}
+
+.progress-bar span.core {
+    display: block;
+    animation-duration: 0.8s;
+    animation-iteration-count: 1;
+    animation-timing-function: linear;
+    background-color: #000;
+    height: 100%;
+    width: 100%;
+    animation: animatedBackground 0.8s linear 1;
+}
+@keyframes animatedBackground {
+    from {
+        background-color: #CCCCCC;
+    }
+    to {
+        background-color: #000;;
+    }
+}
+</style>
+<script>
+$('.progress-bar').find('.core').each(function () {
+    $(this)
+        .data("origWidth", $(this).width())
+        .width(0)
+        .animate({
+        width: $(this).data("origWidth")
+    }, 800);
+});
+</script>
