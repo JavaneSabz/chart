@@ -12,3 +12,10 @@ https://codepen.io/eliza-rjb/pen/xmbEWX
 https://dribbble.com/shots/8653870-Task-management-App
 https://dribbble.com/shots/7079814-Task-Management-UI-App
 https://dribbble.com/shots/7711107-Smart-Home-App
+
+color palette
+https://colorpalettes.net/color-palette-4109/
+https://colorhunt.co/palettes/trendy
+https://digitalsynopsis.com/design/minimal-web-color-palettes-combination-hex-code/
+https://www.instagram.com/colours.cafe/
+https://dribbble.com/shots/5814668-Color-Palette-05
