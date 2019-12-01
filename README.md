@@ -9,3 +9,6 @@ https://codepen.io/veronicadev/pen/QBPYQP
 
 calendar ui
 https://codepen.io/eliza-rjb/pen/xmbEWX
+https://dribbble.com/shots/8653870-Task-management-App
+https://dribbble.com/shots/7079814-Task-Management-UI-App
+https://dribbble.com/shots/7711107-Smart-Home-App
