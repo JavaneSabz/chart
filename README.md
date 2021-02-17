@@ -19,3 +19,5 @@ https://colorhunt.co/palettes/trendy
 https://digitalsynopsis.com/design/minimal-web-color-palettes-combination-hex-code/
 https://www.instagram.com/colours.cafe/
 https://dribbble.com/shots/5814668-Color-Palette-05
+
+https://mega.nz/folder/as9j3IzY#C3mUawE7hYmLd7PuZbhWDQ/folder/ft0wyL6S
